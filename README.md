@@ -94,4 +94,4 @@ Users need to prepare the following input files:
 
 After preparing the input data and parameters, run **run_single.py** or **run_statistic.py**. In **Single Mode**, figures are output to **_run_path_**_/single_, and results are displayed in the terminal. and results are displayed in the terminal. In **Statistic Mode**, figures are output to **_run_path_**_/OUTPUT_.
 
-  
+<b>To learn about the details, please read [NoiseQC_manual.docx](https://github.com/Ycpan-seis/NoiseQC/blob/main/NoiseQC_manual.docx)</b>
