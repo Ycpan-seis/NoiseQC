@@ -7,17 +7,11 @@ University of Science and Technology of China
 
 January, 26, 2025
 
-This is a **_python_** program developed for quality control of horizontal component ambient noise cross-correlation functions (CCFs) based on the Rayleigh wave phase-matching method. Regarding the Rayleigh wave phase-matching method, you can refer to Baker & Stevens (2004) for the principles of this method applied to seismic events, and to Zha et al. (2013) for its principles when applied to noise data. About the details of our practice, you can refer to Pan & Yao (in prep.).
+This is a **_python_** program developed for quality control of horizontal component ambient noise cross-correlation functions (CCFs) based on the Rayleigh wave phase-matching method. Regarding the Rayleigh wave phase-matching method, you can refer to Baker & Stevens (2004) for the principles of this method applied to seismic events, and to Zha et al. (2013) for its principles when applied to noise data. 
 
 In this program, we provide the code to compute the correlation coefficient between and (or ) and perform quality control on the dispersion data, including the code to exhibit the figure. To help users better understand how to use the program, we also provide an example for the CCFs of a single pair of stations, followed by a statistical example for a set of data from a dense array. If there are any questions, comments, and bug reports, please feel free to email [pyc2020@mail.ustc.edu.cn](mailto:pyc2020@mail.ustc.edu.cn) or [ycpan03@gmail.com](mailto:ycpan03@gmail.com).
 
-**References**
 
-Baker, G. E., & Stevens, J. L. (2004). Backazimuth estimation reliability using surface wave polarization. _Geophysical Research Letters_, _31_(9), 2004GL019510. <https://doi.org/10.1029/2004GL019510>
-
-Zha, Y., Webb, S. C., & Menke, W. (2013). Determining the orientations of ocean bottom seismometers using ambient noise correlation. _Geophysical Research Letters_, _40_(14), 3585–3590. <https://doi.org/10.1002/grl.50698>
-
-Pan, Y., & Yao, H. (in prep). Quality Control Method for Horizontal-component Ambient Noise Cross-correlations and its Application to Radial Anisotropy Tomography of the Central Tanlu Fault Zone.
 
 **Links**
 
